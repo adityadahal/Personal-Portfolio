@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f2b1b52c.css",
+    "main.js": "/react-gh-pages/static/js/main.9391ab9f.js",
+    "static/js/787.c802fd04.chunk.js": "/react-gh-pages/static/js/787.c802fd04.chunk.js",
+    "static/media/halkapan.png": "/react-gh-pages/static/media/halkapan.3df87a66761b235902b0.png",
+    "static/media/ghar_dailo.png": "/react-gh-pages/static/media/ghar_dailo.8dead039940d330e0940.png",
+    "static/media/crowd_detection.png": "/react-gh-pages/static/media/crowd_detection.6d907b25c810ca685b80.png",
+    "static/media/nawa_birthday_wisher.png": "/react-gh-pages/static/media/nawa_birthday_wisher.a31eb04a11a413929cda.png",
+    "static/media/profile_pic3.jpg": "/react-gh-pages/static/media/profile_pic3.161ad0a339484871f891.jpg",
+    "static/media/iot_ar.png": "/react-gh-pages/static/media/iot_ar.a328f268daf2dc272f05.png",
+    "static/media/profile_pic.jpg": "/react-gh-pages/static/media/profile_pic.8bbc99b8bfd3017858d9.jpg",
+    "static/media/resume.pdf": "/react-gh-pages/static/media/resume.2d9e5843e644970fdcf0.pdf",
+    "static/media/blog_mern.jpeg": "/react-gh-pages/static/media/blog_mern.72332dbd8a1d6222ec1b.jpeg",
+    "static/media/rojgar_nepal.png": "/react-gh-pages/static/media/rojgar_nepal.d5e83e5fbeb069f04b63.png",
+    "static/media/shortestpathfinder.png": "/react-gh-pages/static/media/shortestpathfinder.e064397e740d38ba4eb2.png",
+    "static/media/bookstore_swing.png": "/react-gh-pages/static/media/bookstore_swing.eef2ecb7113ee66be8ac.png",
+    "static/media/omit_logo.png": "/react-gh-pages/static/media/omit_logo.fd6c0f92bf34239c9467.png",
+    "static/media/profile_pic2.jpeg": "/react-gh-pages/static/media/profile_pic2.cf74a4e2030639b896c3.jpeg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f2b1b52c.css.map": "/react-gh-pages/static/css/main.f2b1b52c.css.map",
+    "main.9391ab9f.js.map": "/react-gh-pages/static/js/main.9391ab9f.js.map",
+    "787.c802fd04.chunk.js.map": "/react-gh-pages/static/js/787.c802fd04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b1b52c.css",
+    "static/js/main.9391ab9f.js"
+  ]
+}
