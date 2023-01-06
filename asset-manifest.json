@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/adityadahal.github.io/static/css/main.f2b1b52c.css",
-    "main.js": "/adityadahal.github.io/static/js/main.dec317ea.js",
-    "static/js/787.c802fd04.chunk.js": "/adityadahal.github.io/static/js/787.c802fd04.chunk.js",
-    "static/media/halkapan.png": "/adityadahal.github.io/static/media/halkapan.3df87a66761b235902b0.png",
-    "static/media/ghar_dailo.png": "/adityadahal.github.io/static/media/ghar_dailo.8dead039940d330e0940.png",
-    "static/media/crowd_detection.png": "/adityadahal.github.io/static/media/crowd_detection.6d907b25c810ca685b80.png",
-    "static/media/nawa_birthday_wisher.png": "/adityadahal.github.io/static/media/nawa_birthday_wisher.a31eb04a11a413929cda.png",
-    "static/media/profile_pic3.jpg": "/adityadahal.github.io/static/media/profile_pic3.161ad0a339484871f891.jpg",
-    "static/media/iot_ar.png": "/adityadahal.github.io/static/media/iot_ar.a328f268daf2dc272f05.png",
-    "static/media/profile_pic.jpg": "/adityadahal.github.io/static/media/profile_pic.8bbc99b8bfd3017858d9.jpg",
-    "static/media/resume.pdf": "/adityadahal.github.io/static/media/resume.2d9e5843e644970fdcf0.pdf",
-    "static/media/blog_mern.jpeg": "/adityadahal.github.io/static/media/blog_mern.72332dbd8a1d6222ec1b.jpeg",
-    "static/media/rojgar_nepal.png": "/adityadahal.github.io/static/media/rojgar_nepal.d5e83e5fbeb069f04b63.png",
-    "static/media/shortestpathfinder.png": "/adityadahal.github.io/static/media/shortestpathfinder.e064397e740d38ba4eb2.png",
-    "static/media/bookstore_swing.png": "/adityadahal.github.io/static/media/bookstore_swing.eef2ecb7113ee66be8ac.png",
-    "static/media/omit_logo.png": "/adityadahal.github.io/static/media/omit_logo.fd6c0f92bf34239c9467.png",
-    "static/media/profile_pic2.jpeg": "/adityadahal.github.io/static/media/profile_pic2.cf74a4e2030639b896c3.jpeg",
-    "index.html": "/adityadahal.github.io/index.html",
-    "main.f2b1b52c.css.map": "/adityadahal.github.io/static/css/main.f2b1b52c.css.map",
-    "main.dec317ea.js.map": "/adityadahal.github.io/static/js/main.dec317ea.js.map",
-    "787.c802fd04.chunk.js.map": "/adityadahal.github.io/static/js/787.c802fd04.chunk.js.map"
+    "main.css": "/static/css/main.f2b1b52c.css",
+    "main.js": "/static/js/main.f50a0288.js",
+    "static/js/787.c802fd04.chunk.js": "/static/js/787.c802fd04.chunk.js",
+    "static/media/halkapan.png": "/static/media/halkapan.3df87a66761b235902b0.png",
+    "static/media/ghar_dailo.png": "/static/media/ghar_dailo.8dead039940d330e0940.png",
+    "static/media/crowd_detection.png": "/static/media/crowd_detection.6d907b25c810ca685b80.png",
+    "static/media/nawa_birthday_wisher.png": "/static/media/nawa_birthday_wisher.a31eb04a11a413929cda.png",
+    "static/media/profile_pic3.jpg": "/static/media/profile_pic3.161ad0a339484871f891.jpg",
+    "static/media/iot_ar.png": "/static/media/iot_ar.a328f268daf2dc272f05.png",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.8bbc99b8bfd3017858d9.jpg",
+    "static/media/resume.pdf": "/static/media/resume.2d9e5843e644970fdcf0.pdf",
+    "static/media/blog_mern.jpeg": "/static/media/blog_mern.72332dbd8a1d6222ec1b.jpeg",
+    "static/media/rojgar_nepal.png": "/static/media/rojgar_nepal.d5e83e5fbeb069f04b63.png",
+    "static/media/shortestpathfinder.png": "/static/media/shortestpathfinder.e064397e740d38ba4eb2.png",
+    "static/media/bookstore_swing.png": "/static/media/bookstore_swing.eef2ecb7113ee66be8ac.png",
+    "static/media/omit_logo.png": "/static/media/omit_logo.fd6c0f92bf34239c9467.png",
+    "static/media/profile_pic2.jpeg": "/static/media/profile_pic2.cf74a4e2030639b896c3.jpeg",
+    "index.html": "/index.html",
+    "main.f2b1b52c.css.map": "/static/css/main.f2b1b52c.css.map",
+    "main.f50a0288.js.map": "/static/js/main.f50a0288.js.map",
+    "787.c802fd04.chunk.js.map": "/static/js/787.c802fd04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2b1b52c.css",
-    "static/js/main.dec317ea.js"
+    "static/js/main.f50a0288.js"
   ]
 }
