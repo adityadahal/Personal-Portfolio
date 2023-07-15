@@ -2,10 +2,20 @@ export const profile = {
   name: "Aditya Kishor Dahal",
   tagline: "Software Developer",
   description:
-    " I am an IT student currently studying at Islington College. I am looking for Job/Internship opportunities in similar field. I have basic knowledge of web development, web designing with good communication skills and team working experience. I truly want to focus on professional competence and knowledge since I do not want to miss out on any opportunities to learn. I want to leverage my technical expertise in Frontend development.",
+    " I am an IT student currently studying at Islington College. I am looking for Job opportunities in similar field. I have basic knowledge of web development, web designing with good communication skills and team working experience. I truly want to focus on professional competence and knowledge since I do not want to miss out on any opportunities to learn. I want to leverage my technical expertise in Frontend development.",
   // profilePic: "../Public/Images/profile1.jpg",
   skillInfo: "",
   skills: [
+    {
+      name: "Angular ",
+      level: 60,
+      percentage: "65%",
+    },
+    {
+      name: "Java ",
+      level: 60,
+      percentage: "65%",
+    },
     {
       name: "Node",
       level: 40,
@@ -13,6 +23,11 @@ export const profile = {
     },
     {
       name: "Git",
+      level: 80,
+      percentage: "80%",
+    },
+    {
+      name: "Spring Boot",
       level: 80,
       percentage: "80%",
     },
@@ -73,17 +88,25 @@ export const profile = {
     {
       company: "Amtrix Technology",
       title: "Intern",
-      duration: "April 2022 - June 2022",
-      description: "Developed Some Static Website using HTML , CSS and JS",
-      reference: "Srijan Kafle",
+      duration: "May 2022 - August 2022",
+      description: "Learned Bootstrap, Implemented on few websites. Learned React",
+      reference: "Chirag Thapa",
     },
     {
       company: "Amtrix Technology",
-      title: "Associate Software Developer",
-      duration: "June 2022 - Present",
+      title: "Software Developer",
+      duration: "August 2022 - December 2022",
       description:
         "Learned REACT, Working on React Js to develop and deliver user-oriented software for Healthcare industries.",
       reference: "Ishan Timilisina",
+    },
+    {
+      company: "Bitskraft Technology",
+      title: "Software Developer",
+      duration: "December 2022 - Present",
+      description:
+        "Using Angular TS to develop and deliver banking software",
+      reference: "Srijan Kafle",
     },
   ],
   educations: [
@@ -168,18 +191,21 @@ export const profile = {
         "bootstrap-plain-wordmark",
       ],
     },
-    // {
-    //   id: "shortest-path-finder",
-    //   name: "Shortest Path Finder Between Two Nodes using Java",
-    //   description:
-    //     "Shortest Path Finder is a simple Java program which finds the shortest path between two nodes in a graph. The program is developed using the Dijkstra's algorithm. Stored and Retrieve Data from a text file",
-    //   image: "",
-    //   url: "https://youtu.be/XqySM6vS0AY",
-    //   github: "https://github.com/rijalanupraj/shortestpathfinder-java",
-    //   website: "",
-    //   video: "",
-    //   tech: ["java-plain"],
-    // },
+    {
+      id: "shortest-path-finder",
+      name: "Deliver Products",
+      description:
+        "Deliver Product is an app allows customers to browse through the available products on the ecommerce site and place an order directly from their mobile device. It provides a user-friendly interface where customers can easily select their desired items and add them to their virtual shopping cart. The app connects to the ecommerce site's inventory database to check the availability of products. When a customer places an order, the app automatically checks if the requested items are in stock. If a product is unavailable, the app notifies the customer and suggests alternative options if applicable. One of the unique features of your app is the integration of drone delivery. Once an order is confirmed and payment is verified, the app initiates the delivery process. It generates a request to dispatch a drone from the nearest fulfillment center to the customer's designated delivery location.",
+      image: "",
+      url: "https://youtu.be/XqySM6vS0AY",
+      github: "https://github.com/aditydahal",
+      website: "",
+      video: "",
+      tech: [ "html5-plain",
+      "css3-plain-wordmark ",
+      "javascript-plain",
+      "bootstrap-plain-wordmark","java-plain", "spring-plain", "angularjs-plain"],
+    },
     // {
     //   id: "ghar-dailo",
     //   name: "GharDailo - Group Project",
