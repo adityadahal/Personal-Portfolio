@@ -1,6 +1,6 @@
 export const profile = {
   name: "Aditya Kishor Dahal",
-  tagline: "Frontend Developer",
+  tagline: "Software Developer",
   description:
     " I am an IT student currently studying at Islington College. I am looking for Job/Internship opportunities in similar field. I have basic knowledge of web development, web designing with good communication skills and team working experience. I truly want to focus on professional competence and knowledge since I do not want to miss out on any opportunities to learn. I want to leverage my technical expertise in Frontend development.",
   // profilePic: "../Public/Images/profile1.jpg",
