@@ -2,7 +2,7 @@ export const profile = {
   name: "Aditya Kishor Dahal",
   tagline: "Software Developer",
   description:
-    " I am an IT student currently studying at Islington College. I am looking for Job opportunities in similar field. I have basic knowledge of web development, web designing with good communication skills and team working experience. I truly want to focus on professional competence and knowledge since I do not want to miss out on any opportunities to learn. I want to leverage my technical expertise in Frontend development.",
+    " I am an IT student recently graduated from Islington College. I am looking for Job opportunities in similar field. I have basic knowledge of web development, web designing with good communication skills and team working experience. I truly want to focus on professional competence and knowledge since I do not want to miss out on any opportunities to learn. I want to leverage my technical expertise in Frontend development.",
   // profilePic: "../Public/Images/profile1.jpg",
   skillInfo: "",
   skills: [
@@ -125,7 +125,7 @@ export const profile = {
     {
       school: "Islington College College, Nepal",
       degree: "Bsc(Hons) Computings",
-      duration: "2019 - Present",
+      duration: "2019 - 2022",
       description: "",
     },
   ],
@@ -139,7 +139,7 @@ export const profile = {
       // url: "https://mernblogbyanup.netlify.app/",
       // website: "https://mernblogbyanup.netlify.app/",
       video: "",
-      // github: "https://github.com/rijalanupraj/node-blog-backend",
+      github: "https://github.com/aditydahal",
       tech: [
         "react-original",
         "nodejs-plain-wordmark",
@@ -160,7 +160,7 @@ export const profile = {
         "Online Bhansa is a Restaurant Management, web Application for Admin and Clients of Restaurant where client(Customer) can order food with one QR scan and pay food in online payment method.",
       image: "",
       // url: "https://github.com/rijalanupraj/halkapan",
-      // github: "https://github.com/rijalanupraj/halkapan",
+      github: "https://github.com/aditydahal",
       website: "",
       // video: "https://youtu.be/-Uu4BNHXKTE",
       tech: [
@@ -181,7 +181,7 @@ export const profile = {
         "It is just a simple static website with Contact us page, which sends mail to Users' gmail.",
       image: "",
       // url: "https://nawa-birthday-wisher.herokuapp.com/",
-      // github: "https://github.com/rijalanupraj/nawa-birthday-wisher",
+      github: "https://github.com/aditydahal",
       // website: "https://nawa-birthday-wisher.herokuapp.com/",
       video: "",
       tech: [
@@ -279,7 +279,7 @@ export const profile = {
     email: "toadityadahal@gmail.com",
     phone: "",
     address: "Kathmandu, Nepal",
-    // website: "https://www.rijalanupraj.com",
+    website: "https://www.adityadahal.com.np",
   },
   social: [
     {
@@ -294,7 +294,7 @@ export const profile = {
     },
     {
       name: "Linkedin",
-      // url: "https://www.linkedin.com/in/rijalanupraj/",
+      url: "https://www.linkedin.com/in/aditya-kishor-dahal-5132a7236/",
       icon: "fa-linkedin-in",
     },
   ],
